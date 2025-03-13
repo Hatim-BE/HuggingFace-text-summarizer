@@ -1,3 +1,6 @@
+
+[![Sync to Hugging Face hub](https://github.com/Hatim-BE/HuggingFace-text-summarizer/actions/workflows/main.yml/badge.svg)](https://github.com/Hatim-BE/HuggingFace-text-summarizer/actions/workflows/main.yml)
+
 ---
 title: Text Summarizer
 emoji: 📚
@@ -10,5 +13,3 @@ pinned: false
 license: cc
 short_description: A space to summarize paragraphs (demo)
 ---
-
-[![Sync to Hugging Face hub](https://github.com/Hatim-BE/HuggingFace-text-summarizer/actions/workflows/main.yml/badge.svg)](https://github.com/Hatim-BE/HuggingFace-text-summarizer/actions/workflows/main.yml)
