@@ -2,7 +2,7 @@ gradio
 transformers
 tensorflow
 black==25.1.0
-ipython==9.0.2
+ipython
 pylint==3.3.5
 pytest==8.3.5
 pytest-cov==6.0.0
